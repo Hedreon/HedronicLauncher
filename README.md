@@ -1,2 +1,3 @@
-# HedronicLauncher
-A better, less painful alternative to Launch4J.
+# Hedronic Launcher
+
+A better, less painful alternative to the Launch4J Maven Plugin.
